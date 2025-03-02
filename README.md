@@ -24,14 +24,9 @@ There is a simplistic `structure.json` file that is present at the root of this 
 {
   "items": [
     {
-      "path": "drone-ci",
-      "title": "Drone CI",
-      "description": "Introduction to continuous improvement drone.io"
-    },
-    {
-      "path": "elastalert",
-      "title": "ElastAlert",
-      "description": "How to write ElastAlert rules to alert on data in Elasticsearch"
+      "path": "terraform",
+      "title": "Terraform",
+      "description": "Automate infrastructure on any cloud or service. Terraform IS infrastructure as code, and is how we build repeatable environments and solutions."
     }
   ]
 }
