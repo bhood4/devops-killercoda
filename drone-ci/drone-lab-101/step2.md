@@ -15,8 +15,8 @@ In addition to these, here are just some of the ways you are free to extend this
 * Role-based authentication to runtime environments (No stored user credentials)
 * Private repos are automatically trusted and given privileged mode access
 * Virtually limitless build agents that autoscale within 20sec
-* Optional workspace caching for your environment ([#drone-cache](https://github.com/meltwater/drone-cache))
-* Pipeline & Step filtering by paths changed in a commit ([#drone-convert-pathschanged](https://github.com/meltwater/drone-convert-pathschanged))
+* Optional workspace caching for your environment ([#drone-cache](https://github.com/bhood4/drone-cache))
+* Pipeline & Step filtering by paths changed in a commit ([#drone-convert-pathschanged](https://github.com/bhood4/drone-convert-pathschanged))
 
 ### Class Environment
 

@@ -8,8 +8,8 @@
  * Multiple pipelines and parallel processing
  * Build-time Services (Redis, Elasticsearch, MySQL, Mongo, Selenium, etc)
  * Common Workspace passed through each step
- * Workspace Caching [#drone-cache](https://github.com/meltwater/drone-cache)
- * Actions Based on Repo Structure [#drone-convert-pathschanged](https://github.com/meltwater/drone-convert-pathschanged)
+ * Workspace Caching [#drone-cache](https://github.com/bhood4/drone-cache)
+ * Actions Based on Repo Structure [#drone-convert-pathschanged](https://github.com/bhood4/drone-convert-pathschanged)
 
 ### Drone CLI Install
 
