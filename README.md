@@ -1,6 +1,6 @@
 # DevOps Killercoda Courses | [![Actions Status](https://github.com/bhood4/devops-killercoda/workflows/Validate%20Katacoda/badge.svg)](https://github.com/bhood4/devops-killercoda/actions)
 
-<img align="right" width="200" src="assets/kllr.png">Many DevOps often uses a ubiquitus tech stack involving terraform, cloud, kubernetes, git, and other core platforms.  This library and the scenarios housed here are intended to provide this base knowledge while also serving as a playground or reference for technology refreshment.
+<img align="right" width="200" src="assets/kllr.png">DevOps often uses a ubiquitus tech stack involving terraform, cloud, kubernetes, git, and other core platforms.  This library and the scenarios housed here are intended to provide this base knowledge while also serving as a playground or reference for technology refreshment.
 
 ## Taking Courses
 
